@@ -1,12 +1,10 @@
 WhatsApp Development code:
 Author: Karthikeyan
-
+Date: 19/10/2024
 Codes Lines:
-
-1.Status add
+1.Video Status add
 2.Chat feature
 3.File upload(Image, audio, video)
 4.Text Status added
 5.Audio call feature added
-
 6.Video call feature added
